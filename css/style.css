@@ -1,13 +1,12 @@
-/* styles.css */
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     margin: 0;
     padding: 0;
 }
 
 h1 {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: bold;
+    font-family: 'Zapfino', sans-serif;
+    font-weight: regular;
     text-decoration: underline;
     text-align: center;
     margin-top: 50px;
