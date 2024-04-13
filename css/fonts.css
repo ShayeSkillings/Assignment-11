@@ -1,2 +1,24 @@
-/* fonts.css */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@font-face {
+    font-family: 'Zapfino';
+    src: url('../fonts/Zapfino-Regular.ttf') format('truetype');
+    font-style: 'regular';
+}
+
+body {
+@font-face{
+    font-family: 'Optima';
+    src: url('../fonts/Optima-Italic.ttf') format('truetype');
+    font-style: 'italic';
+}
+
+@font-face{
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/Helvetica Neue-Thin.ttf') format('truetype');
+    font-style: 'thin';
+}
+
+@font-face{
+    font-family:'Helvetica Neue';
+    src: url('../fonts/Helvetica Neue-Regular.ttf') format('truetype');
+    font-style: 'regular';
+}
