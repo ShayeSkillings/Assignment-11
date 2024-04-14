@@ -64,7 +64,9 @@ p {
     line-height: 1.5;
 }
 
- .salmon-info {
+     .salmon-info {
+            font-family: 'Helvetica Neue';
+            font-style: normal;
             width: 80%;
             margin: 0 auto;
         }
