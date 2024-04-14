@@ -1,24 +1,23 @@
 @font-face {
     font-family: 'Zapfino';
     src: url('../fonts/Zapfino-Regular.ttf') format('truetype');
-    font-style: 'regular';
+    font-style: normal; 
 }
 
-body {
-@font-face{
+@font-face {
     font-family: 'Optima';
     src: url('../fonts/Optima-Italic.ttf') format('truetype');
-    font-style: 'italic';
+    font-style: italic;
 }
 
-@font-face{
+@font-face {
     font-family: 'Helvetica Neue';
     src: url('../fonts/Helvetica Neue-Thin.ttf') format('truetype');
-    font-style: 'thin';
+    font-weight: 100; /* 
 }
 
-@font-face{
-    font-family:'Helvetica Neue';
+@font-face {
+    font-family: 'Helvetica Neue';
     src: url('../fonts/Helvetica Neue-Regular.ttf') format('truetype');
-    font-style: 'regular';
+    font-weight: 400; 
 }
