@@ -66,11 +66,15 @@ img {
 }
 
 .salmon-info {
+    font-family: 'Helvetica Neue'
+    font-style: thin
     width: 80%;
     margin: 0 auto;
 }
 
 .salmon {
+    font-family: 'Helvetica Neue'
+    font-style: thin
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -92,6 +96,8 @@ img {
 }
 
 .salmon-name {
+    font-family: 'Zapfino'
+    font-style: regular
     font-size: 20px;
     font-weight: bold;
     text-align: center;
