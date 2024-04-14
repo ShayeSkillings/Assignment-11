@@ -36,6 +36,8 @@ nav ul li {
 nav ul li a {
     color: white;
     text-decoration: none;
+    font-family: 'Helvetica Neue';
+    font-style: normal;
     font-weight: bold;
 }
 
@@ -51,6 +53,8 @@ section {
 
 h2 {
     color: darkblue;
+    font-family: 'Helvetica Neue';
+    font-style: normal
     font-size: 24px;
     margin-bottom: 10px;
 }
