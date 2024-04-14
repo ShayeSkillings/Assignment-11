@@ -4,14 +4,12 @@ body, h1, h2, h3, h4, h5, h6, p, ul, li {
     padding: 0;
 }
 
-
 body {
     background-color: oceanblue;
     color: lightblue;
     font-family: 'Helvetica Neue';
     font-style: normal;
 }
-
 
 header {
     background-color: babyblue;
@@ -22,7 +20,6 @@ header {
     padding: 20px;
 }
 
-/* Navigation styles */
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -45,26 +42,22 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 
-/* Section styles */
 section {
-    background-color: tan;
+    background-color: none;
     padding: 20px;
     margin-bottom: 20px;
 }
 
-
 h2 {
-    color: tan;
+    color: darkblue;
     font-size: 24px;
     margin-bottom: 10px;
 }
 
-/* Paragraph styles */
 p {
-    color: tan;
+    color: none;
     line-height: 1.5;
 }
-
 
 img {
     max-width: 100%;
@@ -73,7 +66,6 @@ img {
     margin: 0 auto;
 }
 
-
 .salmon-info {
     font-family: 'Helvetica Neue';
     font-style: normal; /* "thin" corrected to "normal" */
@@ -81,10 +73,10 @@ img {
     margin: 0 auto;
 }
 
-/* Salmon container styles */
+
 .salmon {
     font-family: 'Helvetica Neue';
-    font-style: normal; /* "thin" corrected to "normal" */
+    font-style: normal; 
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
